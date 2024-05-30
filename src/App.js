@@ -19,15 +19,7 @@ function App() {
       <Router>
         <Routes>
          
-          <Route path="/WL2" exact element={<Watchlist2 />}  />
-          <Route path="/portfolio" exact element={<Portfolio />} />
-          <Route path="/about" exact element={<About />} />
-          <Route path="/buyPage" exact element={<BuyPage />} />
-          <Route path="/successPage" exact element={<SuccessPage />} />
-          <Route path="/Profile" exact element={<Profile />} />
-          <Route path="/history" exact element={<History />} />
-          <Route path="/sellPage" exact element={<SellPage />} />
-         
+    
  
         </Routes>
       </Router>
